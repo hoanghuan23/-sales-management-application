@@ -1,6 +1,6 @@
 ## Chương trình ứng dụng quản lý bán hàng Winform sử dụng ngôn ngữ C# và SQL Sever
-tài khoản: hoanghuan
-mật khẩu: 23092003
+ -tài khoản: hoanghuan
+ -mật khẩu: 23092003
 
 Ứng dụng bao gồm các trang:
 - Danh mục (chất liệu, khách hàng, nhân viên, hàng hóa)
