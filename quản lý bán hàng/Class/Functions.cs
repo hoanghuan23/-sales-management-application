@@ -16,7 +16,11 @@ namespace quản_lý_bán_hàng.Class
         public static void Connect()
         {
             con = new SqlConnection();
+<<<<<<< HEAD
             con.ConnectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"F:\\c Sharp\\quản lý bán hàng\\quản lý bán hàng\\quanlybanhang.mdf\";Integrated Security=True;Connect Timeout=30";
+=======
+            con.ConnectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"F:\\c_Sharp\\quản lý bán hàng\\quản lý bán hàng\\quanlybanhang.mdf\";Integrated Security=True;Connect Timeout=30";
+>>>>>>> master
             if (con.State != ConnectionState.Open)
             {
                 con.Open();

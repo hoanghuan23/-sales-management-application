@@ -17,3 +17,24 @@ F:\c Sharp\quản lý bán hàng\quản lý bán hàng\obj\Debug\quản_lý_bán
 F:\c Sharp\quản lý bán hàng\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.frmdangnhap.resources
 F:\c Sharp\quản lý bán hàng\quản lý bán hàng\obj\Debug\Quản lý bán hàng.csproj.ResolveComReference.cache
 F:\c Sharp\quản lý bán hàng\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.frmdanhmucchatlieu.resources
+<<<<<<< HEAD
+=======
+F:\c_Sharp\quản lý bán hàng\quản lý bán hàng\bin\Debug\quản lý bán hàng.exe.config
+F:\c_Sharp\quản lý bán hàng\quản lý bán hàng\bin\Debug\quản lý bán hàng.exe
+F:\c_Sharp\quản lý bán hàng\quản lý bán hàng\bin\Debug\quản lý bán hàng.pdb
+F:\c_Sharp\quản lý bán hàng\quản lý bán hàng\obj\Debug\Quản lý bán hàng.csproj.AssemblyReference.cache
+F:\c_Sharp\quản lý bán hàng\quản lý bán hàng\obj\Debug\Quản lý bán hàng.csproj.ResolveComReference.cache
+F:\c_Sharp\quản lý bán hàng\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.Form1.resources
+F:\c_Sharp\quản lý bán hàng\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.frmbanhang.resources
+F:\c_Sharp\quản lý bán hàng\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.frmdangnhap.resources
+F:\c_Sharp\quản lý bán hàng\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.frmdanhmucchatlieu.resources
+F:\c_Sharp\quản lý bán hàng\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.frmdkhachhang.resources
+F:\c_Sharp\quản lý bán hàng\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.frmdhanghoa.resources
+F:\c_Sharp\quản lý bán hàng\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.frmdmnhanvien.resources
+F:\c_Sharp\quản lý bán hàng\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.frmhoadonban.resources
+F:\c_Sharp\quản lý bán hàng\quản lý bán hàng\obj\Debug\quản_lý_bán_hàng.Properties.Resources.resources
+F:\c_Sharp\quản lý bán hàng\quản lý bán hàng\obj\Debug\Quản lý bán hàng.csproj.GenerateResource.cache
+F:\c_Sharp\quản lý bán hàng\quản lý bán hàng\obj\Debug\Quản lý bán hàng.csproj.CoreCompileInputs.cache
+F:\c_Sharp\quản lý bán hàng\quản lý bán hàng\obj\Debug\quản lý bán hàng.exe
+F:\c_Sharp\quản lý bán hàng\quản lý bán hàng\obj\Debug\quản lý bán hàng.pdb
+>>>>>>> master
